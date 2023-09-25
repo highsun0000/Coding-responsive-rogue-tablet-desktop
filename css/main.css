@@ -25,6 +25,7 @@ h4 {
 	text-transform: uppercase;
 	font-weight: 700;
 	
+	
 }
 
 h1 {
@@ -163,8 +164,6 @@ footer {
 	margin-top: 8px;
 	display: flex;
     justify-content: center;
-	padding-left: 28rem;
-	
 }
 
 footer span {
@@ -182,7 +181,7 @@ footer span {
 	}
 	
 	.section-one {
-		width: 27%;
+		width: 26%;
 	}
 	
 	.section-two {
@@ -193,7 +192,7 @@ footer span {
 	}
 	
 	.section-three {
-		width: 27%;
+		width: 26%;
 	}
 		
 }
