@@ -205,7 +205,7 @@ footer span {
 		font-size: 1em;
 	}
 
-	.content-wrapper {
+	header .content-wrapper {
 		align-items: center;
 		padding: 20px 0;
 		justify-content: space-between;
